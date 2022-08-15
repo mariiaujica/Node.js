@@ -1,17 +1,24 @@
 {
-  "name": "hyf-node-week-3-homework",
+  "name": "week3",
   "version": "1.0.0",
-  "description": "HackYourFuture Node.js Week 3 - Homework",
-  "repository": "https://github.com/HackYourFuture/nodejs.git",
-  "main": "src/index.js",
-  "author": "George Sapkin",
-  "license": "MIT",
-  "devDependencies": {
-    "eslint": "^4.2.0",
-    "eslint-config-standard": "^11.0.0",
-    "eslint-plugin-import": "^2.7.0",
-    "eslint-plugin-node": "^6.0.0",
-    "eslint-plugin-promise": "^3.5.0",
-    "eslint-plugin-standard": "^3.0.1"
+  "description": "Foocoding Week3 Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariiaujica/Node.js.git#master"
+  },
+  "author": "Mariia Ujica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariiaujica/Node.js/issues"
+  },
+  "homepage": "https://github.com/mariiaujica/Node.js/tree/master#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^7.0.3",
+    "uuidv4": "^6.2.13"
   }
 }
